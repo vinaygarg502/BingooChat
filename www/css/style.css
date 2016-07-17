@@ -1,0 +1,37 @@
+/* Empty. Add your own CSS if you like */
+
+.bingoo-container{
+
+}
+
+.bingoo-container .scroll-content{
+  background-color: #272844;
+}
+.bingoo-container .menu.menu-left .item-content{
+  background-color: #272844;
+  color: #ffffff;
+}
+.profile-img{
+  height: 250px;
+  text-align: center;
+  padding-top: 12%;
+}
+.profile-img img{
+  height: 150px;
+  border-radius: 20% 0;
+  border: 2px solid #ffffff;
+}
+.profile-name{
+  color: #8B99F1;
+  font-size: 17px;
+  text-align: center;
+  font-weight: 600;
+}
+.bar.bar-stable{
+  background-color: #272844;
+  color: #ffffff;
+}
+
+.bar-stable .button.button-clear, .bar.bar-stable .title{
+  color: #ffffff;
+}
