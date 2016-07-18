@@ -35,3 +35,30 @@
 .bar-stable .button.button-clear, .bar.bar-stable .title{
   color: #ffffff;
 }
+.user-details{
+  display: inline-block;
+}
+.no-of-unread-msg{
+  font-size: 16px !important;
+}
+.no-of-unread-msg:before{
+  width: 22px !important;
+}
+.availability-status{
+  height: 10px;
+  width: 10px;
+  background-color: green;
+  position: absolute;
+  left: 12%;
+  top: 59%;
+  border-radius: 50%;
+}
+.available{
+  background-color: green;
+}
+.busy{
+  background-color: red;
+}
+.offline{
+  background-color: #cccccc;
+}
